@@ -1,0 +1,33 @@
+-----------------------------------------------------------------------------
+Miles Driven : 50
+Gallons of Gas Used: 250
+Efficienct(Miles/ Gallon): 0
+-----------------------------------------------------------------------------
+Miles Driven : 250
+Gallons of Gas Used: 50
+Efficienct(Miles/ Gallon): 5
+-----------------------------------------------------------------------------
+Miles Driven : 250
+Gallons of Gas Used: 50
+Efficienct(Miles/ Gallon): 5
+-----------------------------------------------------------------------------
+Miles Driven : 260
+Gallons of Gas Used: 5
+Efficienct(Miles/ Gallon): 52
+
+-----------------------------------------------------------------------------
+Miles Driven : 480
+Gallons of Gas Used: 10
+Efficienct(Miles/ Gallon): 48
+-----------------------------------------------------------------------------
+Miles Driven : 10
+Gallons of Gas Used: 5
+Efficienct(Miles/ Gallon): 2
+-----------------------------------------------------------------------------
+Miles Driven : 450
+Gallons of Gas Used: 80
+Efficienct(Miles/ Gallon): 5
+-----------------------------------------------------------------------------
+Miles Driven : 450
+Gallons of Gas Used: 80
+Efficienct(Miles/ Gallon): 5

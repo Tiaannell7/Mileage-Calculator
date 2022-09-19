@@ -1,0 +1,48 @@
+-----------------------------------------------------------------------------
+Date : 2021/04/27 16:36:33
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 29
+-----------------------------------------------------------------------------
+Date : 2021/04/27 18:17:22
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 29
+-----------------------------------------------------------------------------
+Date : 2021/04/27 18:17:31
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 29
+-----------------------------------------------------------------------------
+Date : 2021/04/27 18:31:27
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 29
+-----------------------------------------------------------------------------
+Date : 2021/04/30 14:21:12
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 31
+-----------------------------------------------------------------------------
+Date : 2021/04/30 14:22:56
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 31
+-----------------------------------------------------------------------------
+Date : 2021/04/30 14:26:30
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 31
+-----------------------------------------------------------------------------
+Date : 2021/04/30 14:46:43
+
+System.DivideByZeroException
+Message : Attempted to divide by zero.
+StackTrace :    at Formative3.MEC_Form.calculateButton_Click(Object sender, EventArgs e) in C:\Users\nellt\source\repos\Formative3\Form1.cs:line 31
